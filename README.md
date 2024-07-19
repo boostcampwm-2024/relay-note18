@@ -1,13 +1,16 @@
 # relay-note18
-![img](https://gist.github.com/user-attachments/assets/95c47543-d1b3-441f-9868-c6da0a474a0f)
+![부스트캠프웹모바일 커버용 (1)](https://github.com/user-attachments/assets/cc421638-b227-4a78-bf0f-afa35e17dd1b)
 
 
 # 읽은 책 
 1. 개발자원칙
-    ![image](https://gist.github.com/user-attachments/assets/4445bb55-10cf-4c96-8f8b-aee306c00d0b)
+    - ![2](https://github.com/user-attachments/assets/93762a6d-a1e7-44f0-a963-748a4a6a20f1)
+
+
 
 2. 함께 자라기
-   ![image](https://gist.github.com/user-attachments/assets/84fd79a1-758a-464b-b50c-2a3998a65d00)
+   - ![3](https://github.com/user-attachments/assets/4bb91f86-d813-4a15-a750-19820dcbe055)
+
 
 # ✅ 우리들의 해석
 > 각자 읽은 부분에대해 설명하였고 이에대한 인사이트를 공유합니다!
